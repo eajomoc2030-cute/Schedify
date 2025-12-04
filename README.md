@@ -21,12 +21,7 @@ Schedify is a simple and user-friendly weekly organizer designed to help student
 - Confirmation messages (e.g., "Task added successfully")
 
 ## How to Run
-1. Make sure Python 3 is installed.
-2. Download the file [Python Schedify](
-3. Run using:
-```
-python Schedify.py
-```
+1. Open the file [Python Schedify](https://onlinegdb.com/ar2xV-jSBD)
 
 ## Members
 - Erolyn Jomoc  
