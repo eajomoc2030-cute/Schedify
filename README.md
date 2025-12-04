@@ -31,4 +31,3 @@ python Schedify.py
 - Erolyn Jomoc  
 - Eden Conales  
 - Kaira Bibera  
-Grade 8 – Daffodil
