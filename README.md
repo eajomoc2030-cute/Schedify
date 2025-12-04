@@ -24,8 +24,9 @@ Schedify is a simple and user-friendly weekly organizer designed to help student
 1. Make sure Python 3 is installed.
 2. Download the file `Schedify.py`.
 3. Run using:
+```
 python Schedify.py
-
+```
 
 ## Members
 - Erolyn Jomoc  
