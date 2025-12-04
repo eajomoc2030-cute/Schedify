@@ -1,2 +1,34 @@
 # Schedify
-A simple weekly task organizer for students. Schedify helps you add tasks, track deadlines, sort schedules, and stay organized through autosaving, progress tracking, and a clear weekly task view.
+
+Schedify is a simple and user-friendly weekly organizer designed to help students plan, organize, and track school and personal activities. It allows users to add tasks, set deadlines, mark tasks as done, update entries, and delete tasks as needed.
+
+## Features
+- Add academic and non-academic tasks
+- Set task description, deadline, and category
+- View all tasks in order added
+- Mark tasks as Pending or Done
+- Update or delete existing tasks
+
+## Inputs
+- Task description
+- Deadline (MM-DD-YYYY)
+- Category (Academic / Non-Academic)
+- Menu selection (Add / View / Update / Delete / Mark Done / Exit)
+
+## Outputs
+- Task list
+- Status of tasks (Pending/Done)
+- Confirmation messages (e.g., "Task added successfully")
+
+## How to Run
+1. Make sure Python 3 is installed.
+2. Download the file `Schedify.py`.
+3. Run using:
+python Schedify.py
+
+
+## Members
+- Erolyn Jomoc  
+- Eden Conales  
+- Kaira Bibera  
+Grade 8 – Daffodil
