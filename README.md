@@ -16,7 +16,7 @@ It helps manage academic responsibilities and personal activities in one place, 
 ---
 
 ## How to Run
-1. Open the Python file: [Schedify](https://onlinegdb.com/ar2xV-jSBD).
+1. Open the Python file: [Schedify](https://onlinegdb.com/y8sIao2-2).
 2. Follow the on-screen options to:
    - Add tasks  
    - Update tasks  
