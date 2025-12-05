@@ -4,7 +4,7 @@ This file lists all the updates made to our **Schedify – Task Organizer for St
 
 ---
 
-## Version v1.2.1 – December 5, 2025
+## Version v1.2.0 – December 5, 2025
 We removed the extra features and kept only the main **Key Features of Schedify**:
 - Add academic and non-academic tasks  
 - Set task descriptions, deadlines, and categories  
