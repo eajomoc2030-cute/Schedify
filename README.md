@@ -1,7 +1,7 @@
 # Schedify
 
 **Schedify** is a simple and user-friendly task organizer designed for students.  
-It helps manage academic responsibilities and personal activities in one place, making it easy to track deadlines, update tasks, and stay organized throughout the week.
+It helps manage academic responsibilities and personal activities in one place, making it easy to track deadlines, update tasks, and stay organized.
 
 ---
 
