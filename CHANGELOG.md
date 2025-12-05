@@ -1,18 +1,10 @@
 # CHANGELOG
 
-This file lists all the updates made to our **Schedify – Weekly Organizer for Students** project.
+This file lists all the updates made to our **Schedify – Task Organizer for Students** project.
 
 ---
 
 ## Version v1.2.1 – December 5, 2025
-- Completed the Project Proposal  
-- Completed the Project Journal  
-- Added the Changelog and README to the GitHub link  
-- Finished the final code for the project using Python  
-
----
-
-## Version v1.2.0 – December 4, 2025
 We removed the extra features and kept only the main **Key Features of Schedify**:
 - Add academic and non-academic tasks  
 - Set task descriptions, deadlines, and categories  
