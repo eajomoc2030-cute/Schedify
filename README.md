@@ -22,7 +22,7 @@ It helps manage academic responsibilities and personal activities in one place, 
    - Update tasks  
    - View tasks  
    - Delete tasks  
-3. Use Schedify to manage your weekly schedule efficiently and avoid missing deadlines.
+3. Use Schedify to manage your tasks efficiently and avoid missing deadlines.
 
 ---
 
