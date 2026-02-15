@@ -13,7 +13,7 @@ It helps manage academic responsibilities and personal activities in one place, 
 - **Task Status** – Mark tasks as **Pending** or **Done**.  
 - **Edit or Delete Tasks** – Update or remove tasks anytime.
 - **Task Summary** – View total, pending, and completed tasks with completion percentage.
-- **Input Validation** - Prevents errors w=hen invalid numbers are entered. 
+- **Input Validation** - Prevents errors when invalid numbers are entered. 
 - **Beginner-Friendly** – Simple and intuitive interface designed for students.
 
 ---
@@ -44,7 +44,7 @@ No external libraries were used to keep the system simple and beginner-friendly.
 1. Make sure Python 3 is installed on your computer/laptop.
 2. Download or clone the schedify repository.
 3. Open the project folder.
-4. Open a terminal or command propmt inside the folder.
+4. Open a terminal or command prompt inside the folder.
 5. Run the program using: python schedify.py
 6. The menu will appear:
    1. Add Task
@@ -54,11 +54,11 @@ No external libraries were used to keep the system simple and beginner-friendly.
    5. Exit
 7. Enter the number of your chosen option.
 8. When entering deadlines, use the format: MM-DD-YYYY
-9. Continue using the menu until you choose 5 (exit).
+9. Continue using the menu until you choose 5 (Exit).
     
 ---
 
-## Methadology
+## Methodology
 Schedify uses a simple menu-based system built using Python.
 ## How the Main Features Work
 - Add Task – Tasks are saved in a list. Each task includes a description, deadline, category, and status.
