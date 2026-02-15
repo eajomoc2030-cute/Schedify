@@ -2,6 +2,10 @@
 
 This file lists all the updates made to our **Schedify – Task Organizer for Students** project.
 
+## Version v1.2.1 - January 15, 2026
+- Updated project documentation to reflect the simplified feature set.
+- Clarified that previously implemented features (deadline countdown, automatic sorting, motivational messages, and autosave) were officially removed.
+
 ---
 
 ## Version v1.2.0 – December 5, 2025
