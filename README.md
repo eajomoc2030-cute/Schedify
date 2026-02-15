@@ -19,10 +19,11 @@ It helps manage academic responsibilities and personal activities in one place, 
 ---
 
 ### Technologies Used
-- Python 3 – Used to build the task management system.
-- Command-Line Interface (CLI) – Simple text-based interface for user interaction.
+- Python 3 – Chosen for its simplicity and beginner-friendly syntax.
+- Command-Line Interface (CLI) – Used to keep the system lightweight and focused on functionality.
 
-No external libraries were used to keep the system simple and beginner-friendly.
+No external libraries were used to maintain simplicity and clarity of the core logic.
+
 
 ---
 
@@ -68,6 +69,9 @@ Schedify uses a simple menu-based system built using Python.
 - Update/Delete Task – The user chooses a task number to edit or remove it.
 - Task Summary – The program counts total, pending, and completed tasks and shows the percentage completed.
 - Input Validation – The program checks user input to avoid errors.
+
+### Backend–Frontend Communication
+Not applicable. Schedify is a standalone command-line application where all logic and user interaction occur within a single Python file.
 
 ---
 
