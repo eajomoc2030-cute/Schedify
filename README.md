@@ -60,6 +60,7 @@ No external libraries were used to keep the system simple and beginner-friendly.
 
 ## Methodology
 Schedify uses a simple menu-based system built using Python.
+
 ## How the Main Features Work
 - Add Task – Tasks are saved in a list. Each task includes a description, deadline, category, and status.
 - View Tasks – The program displays all tasks in the order they were added.
