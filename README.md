@@ -6,6 +6,7 @@ It helps manage academic responsibilities and personal activities in one place, 
 ---
 
 ## Features
+
 - **Add Tasks Easily** – Add both academic and non-academic tasks.  
 - **Task Details** – Set a description, deadline, and category for each task.  
 - **Task Overview** – View all tasks in the order they were added.  
@@ -58,17 +59,14 @@ No external libraries were used to keep the system simple and beginner-friendly.
 ---
 
 ## Methadology
-Schedify uses a simple menu-driven system. 
-- Tasks are stored in a list.
-- Each task contains:
-  - Descriptiom
-  - Deadline
-  - Category
-  - Status (Pending/Done)
-- A while loop keeps the program running until the user chooses to exit.
-- Conditional statements handle different menu options.
-- Input validation is used to prevent program crashes.
-The design focuses on simplicity and clarity rather than advanced automation.
+Schedify uses a simple menu-based system built using Python.
+## How the Main Features Work
+- Add Task – Tasks are saved in a list. Each task includes a description, deadline, category, and status.
+- View Tasks – The program displays all tasks in the order they were added.
+- Mark as Done – The task status changes from “Pending” to “Done.”
+- Update/Delete Task – The user chooses a task number to edit or remove it.
+- Task Summary – The program counts total, pending, and completed tasks and shows the percentage completed.
+- Input Validation – The program checks user input to avoid errors.
 
 ---
 
@@ -77,12 +75,14 @@ The design focuses on simplicity and clarity rather than advanced automation.
 - No autosave feature is used to maintain simplicity.
 - Tasks are shown in the order they were added.
 - Advanced features were removed in Version 1.2.0 to make the system easier to use and understand.
+- No external libraries were used.
 
 ---
 
 ## Current Status
+
 Current Version: v1.3.0
-The project is finalized and includes core task management features with improved stability and task summary functionality.
+The project includes core task management features and improved stability.
 
 ---
 
@@ -91,7 +91,6 @@ This project follows basic programming ethics principles:
    - No personal or sensitive data is collected.
    - Tasks are stored only during program execution.
    - No external data sharing is involved.
-   - All code written in this project is original.
    - The system is designed to be simple and accessible for student users.
 
 ---
