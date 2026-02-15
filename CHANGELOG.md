@@ -11,6 +11,11 @@ This file lists all the updates made to our **Schedify – Task Organizer for St
   - Number of pending tasks
   - Number of completed tasks
   - Completion percentage
+  - 
+### Documentation Updates
+- Improved README formatting
+- Expanded Methodology section
+- Added Development Note
 
 ### Improved
 - System stability and user interaction handling
