@@ -7,7 +7,6 @@ This file lists all the updates made to our **Schedify – Task Organizer for St
 ### Documentation Update
 - Added OnlineGDB link to the READDME for easier access
   
--- 
 
 ## Version v1.3.0 – February 15, 2026
 
