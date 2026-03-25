@@ -2,6 +2,13 @@
 
 This file lists all the updates made to our **Schedify – Task Organizer for Students** project.
 
+## Version v1.3.1 –   March 25, 2026
+
+### Documentation Update
+- Added OnlineGDB link to the READDME for easier access
+  
+-- 
+
 ## Version v1.3.0 – February 15, 2026
 
 ### Added
