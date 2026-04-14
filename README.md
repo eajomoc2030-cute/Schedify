@@ -13,8 +13,6 @@ It helps manage academic responsibilities and personal activities in one place, 
 - **Task Status** – Mark tasks as **Pending** or **Done**.  
 - **Edit or Delete Tasks** – Update or remove tasks anytime.
 - **Task Summary** – View total, pending, and completed tasks with completion percentage.
-- **Input Validation** - Prevents errors when invalid numbers are entered. 
-- **Beginner-Friendly** – Simple and intuitive interface designed for students.
 
 ---
 
@@ -29,7 +27,7 @@ No external libraries were used to maintain simplicity and clarity of the core l
 
 ## How to Run
 ### OPTION 1: Run Online
-1. Open the Python file: [Schedify](https://onlinegdb.com/y8sIao2-2).
+1. Open the Python file: [Schedify](https://onlinegdb.com/4D7dwqhFXF).
 2. Click **Run**
 3. The menu will appear:
    1. Add Task
@@ -39,7 +37,7 @@ No external libraries were used to maintain simplicity and clarity of the core l
    5. Exit
 4. Enter the number of your chosen option.
 5. When entering deadlines, use the format: MM-DD-YYYY
-6. Continue using the menu until you choose 5 (Exit).
+6. Continue using the menu until you choose 6 (Exit).
 
 ### OPTION 2: Run Locally
 1. Make sure Python 3 is installed on your computer/laptop.
@@ -52,10 +50,11 @@ No external libraries were used to maintain simplicity and clarity of the core l
    2. View Tasks
    3. Mark Task as Done
    4. Update/Delete Task
-   5. Exit
+   5. View Task Summary
+   6. Exit
 7. Enter the number of your chosen option.
 8. When entering deadlines, use the format: MM-DD-YYYY
-9. Continue using the menu until you choose 5 (Exit).
+9. Continue using the menu until you choose 6 (Exit).
     
 ---
 
