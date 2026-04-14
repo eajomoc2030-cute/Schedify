@@ -1,128 +1,134 @@
 # Schedify
 
 **Schedify** is a simple and user-friendly task organizer designed for students.  
-It helps manage academic responsibilities and personal activities in one place, making it easy to track deadlines, update tasks, and stay organized.
+It helps manage academic responsibilities and personal activities in one place, making it easier to record, organize, and track tasks over time.
+
+Research in cognitive psychology shows that working memory has a limited capacity, and individuals often rely on external memory aids to manage information more effectively. These external representations help reduce cognitive load and support task organization (Zhang & Wang, 2009). Studies on task management also show that people use to-do lists to record, organize, and track tasks over time, making them an important tool for supporting task completion (Bellotti et al., 2004).
+
+Based on these findings, Schedify was developed as a lightweight system to support structured task management in a simple and accessible way for students.
 
 ---
 
 ## Features
 
-- **Add Tasks Easily** – Add both academic and non-academic tasks.  
-- **Task Details** – Set a description, deadline, and category for each task.  
-- **Task Overview** – View all tasks in the order they were added.  
-- **Task Status** – Mark tasks as **Pending** or **Done**.  
-- **Edit or Delete Tasks** – Update or remove tasks anytime.
-- **Task Summary** – View total, pending, and completed tasks with completion percentage.
+- Add Task – Create tasks with description, deadline, and category  
+- View Tasks – Display all saved tasks in order  
+- Mark Task as Done – Update task status to completed  
+- Update/Delete Task – Modify or remove existing tasks  
+- View Task Summary – Show total, pending, and completed tasks with completion rate  
 
 ---
 
-### Technologies Used
-- Python 3 – Chosen for its simplicity and beginner-friendly syntax.
-- Command-Line Interface (CLI) – Used to keep the system lightweight and focused on functionality.
+## Technologies Used
 
-No external libraries were used to maintain simplicity and clarity of the core logic.
+- Python 3 – Simple and beginner-friendly programming language  
+- Command-Line Interface (CLI) – Lightweight system interface  
 
+No external libraries were used.
 
 ---
 
 ## How to Run
+
 ### OPTION 1: Run Online
-1. Open the Python file: [Schedify](https://onlinegdb.com/4D7dwqhFXF).
-2. Click **Run**
-3. The menu will appear:
-   1. Add Task
-   2. View Tasks
-   3. Mark Task as Done
-   4. Update/Delete Task
-   5. Exit
-4. Enter the number of your chosen option.
-5. When entering deadlines, use the format: MM-DD-YYYY
-6. Continue using the menu until you choose 6 (Exit).
+1. Open the Python file: [Schedify](https://onlinegdb.com/4D7dwqhFXF)  
+2. Click Run  
+3. Use the menu:
+   1. Add Task  
+   2. View Tasks  
+   3. Mark Task as Done  
+   4. Update/Delete Task  
+   5. View Task Summary  
+   6. Exit  
+4. Enter the number of your chosen option  
+5. Use MM-DD-YYYY format for deadlines  
+
+---
 
 ### OPTION 2: Run Locally
-1. Make sure Python 3 is installed on your computer/laptop.
-2. Download or clone the schedify repository.
-3. Open the project folder.
-4. Open a terminal or command prompt inside the folder.
-5. Run the program using: python schedify.py
-6. The menu will appear:
-   1. Add Task
-   2. View Tasks
-   3. Mark Task as Done
-   4. Update/Delete Task
-   5. View Task Summary
-   6. Exit
-7. Enter the number of your chosen option.
-8. When entering deadlines, use the format: MM-DD-YYYY
-9. Continue using the menu until you choose 6 (Exit).
-    
+1. Install Python 3  
+2. Download or clone the repository  
+3. Open terminal in project folder  
+4. Run:
+   python schedify.py  
+5. Use the same menu options  
+
 ---
 
 ## Methodology
-Schedify uses a simple menu-based system built using Python.
 
-## How the Main Features Work
-- Add Task – Tasks are saved in a list. Each task includes a description, deadline, category, and status.
-- View Tasks – The program displays all tasks in the order they were added.
-- Mark as Done – The task status changes from “Pending” to “Done.”
-- Update/Delete Task – The user chooses a task number to edit or remove it.
-- Task Summary – The program counts total, pending, and completed tasks and shows the percentage completed.
-- Input Validation – The program checks user input to avoid errors.
+Schedify uses a simple menu-based system built in Python.
 
-### Backend–Frontend Communication
-Not applicable. Schedify is a standalone command-line application where all logic and user interaction occur within a single Python file.
+### How the Main Features Work
+- Add Task – Stores task details in a structured list  
+- View Tasks – Displays all tasks in order of entry  
+- Mark Task as Done – Updates task status from pending to completed  
+- Update/Delete Task – Allows editing or removal using task index  
+- View Task Summary – Calculates total, pending, and completed tasks  
+
+### System Structure
+Schedify is a standalone command-line application where all logic is handled within a single Python file.
 
 ---
 
 ## Design Decisions
-- The system does not use automatic sorting to keep task order clear.
-- No autosave feature is used to maintain simplicity.
-- Tasks are shown in the order they were added.
-- Advanced features were removed in Version 1.2.0 to make the system easier to use and understand.
-- No external libraries were used.
+
+- Tasks remain in insertion order for clarity  
+- No autosave feature to maintain simplicity  
+- No external libraries used  
+- Focus is on core functionality and usability  
+- Designed specifically for student task management  
 
 ---
 
 ## Current Status
 
-Current Version: v1.3.0
-The project includes core task management features and improved stability.
+Version 1.3.0 – Stable  
+Core task management features fully implemented  
 
 ---
 
 ## Programming and Computing Ethics
-This project follows basic programming ethics principles:
-   - No personal or sensitive data is collected.
-   - Tasks are stored only during program execution.
-   - No external data sharing is involved.
-   - The system is designed to be simple and accessible for student users.
+
+- No personal or sensitive data is collected  
+- All tasks exist only during runtime  
+- No external data sharing occurs  
+- Designed for educational use only  
 
 ---
 
 ## Benefits
-- Helps manage time effectively  
-- Reduces stress by keeping tasks organized  
-- Improves academic performance through proper planning  
-- Encourages responsibility and accountability  
+
+- Improves task organization  
+- Supports time management  
+- Reduces cognitive overload  
+- Encourages responsibility and discipline  
+- Helps students track academic workload  
 
 ---
 
 ## Members
-- **Erolyn Jomoc**  
-- **Eden Conales**  
-- **Kaira Bibera**
+
+- Erolyn Jomoc  
+- Eden Conales  
+- Kaira Bibera  
 
 ---
 
 ## License
-This project is for **educational purposes only**.
+
+This project is for educational purposes only.
+
+---
 
 ## Development Note
-This project was coded by the group members.
 
-We used AI tools to:
-- Help explain some parts of the code
-- Fix small errors
-- Guide us on syntax and how to write certain parts
-We made sure we understood the code and edited it ourselves before submitting. :) 
+This project was developed by the group members. ChatGPT was used as an assistive tool to help improve grammar, clarify explanations, and refine documentation structure. All content was reviewed, understood, and edited by the group before submission.
 
+---
+
+## References
+
+Bellotti, V., Dalal, B., Good, N., Flynn, P., Bobrow, D. G., & Ducheneaut, N. (2004). *What a to-do: Studies of task management towards the design of a personal task list manager*. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’04). https://doi.org/10.1145/985692.985785  
+
+Zhang, J., & Wang, H. (2009). *An exploration of the relations between external representations and working memory*. PLOS ONE, 4(8), e6513. https://doi.org/10.1371/journal.pone.0006513
